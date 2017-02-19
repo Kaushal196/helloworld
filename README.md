@@ -1,5 +1,5 @@
 # helloworld
-This is just a test repository. A helloworld pythin application.
+This is just a test repository. A helloworld python application.
 
 **Installing :**
 
